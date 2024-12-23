@@ -1,4 +1,6 @@
 # pritamhere
 it's my first repository
-and i start my  journey  .author - pritam kumar
+and i start my  journey  .
+<br>
+author - pritam kumar
 
